@@ -9,4 +9,4 @@ additions/changes.
 
 ## Look
 
-![](examples/boxes.pdf)
+![](examples/boxes.png)
